@@ -8,7 +8,7 @@ This project implements a next-word prediction model using **Long Short-Term Mem
 The project's workflow can be broken down into the following stages:
 
 <p align="center">
-  <img src="image.png" alt="alt text" width="35%">
+  <img src="image.png" alt="alt text" width="50%">
 </p>
 
 
